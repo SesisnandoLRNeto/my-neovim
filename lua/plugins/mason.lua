@@ -9,6 +9,11 @@ return {
       "tailwindcss-language-server",
       "emmet-ls",
       "angular-language-server",
+      "json-lsp",
+      "lua-language-server",
+      "jdtls",
+      "java-debug-adapter",
+      "java-test"
     },
   },
 }
